@@ -1,5 +1,7 @@
 # Amazon-Product-Review Classification
 
-NLP - BERT Model
-Containerizatoin - Seldon 
-Deployment - Streamlit
+'''
+1. NLP - BERT Model
+2. Containerizatoin - Seldon 
+3. Deployment - Streamlit
+'''
