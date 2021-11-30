@@ -1,7 +1,6 @@
 # Amazon-Product-Review Classification
 
 ```
-1. NLP - BERT Model
-2. Containerization - Seldon 
-3. Deployment - Streamlit
+Part 1: Scrape the product reviews
+Part 2: Classify sentiments using BERT model
 ```
